@@ -1,6 +1,4 @@
-# Ignored Files
 *.exe
-*.exe~
 *.dll
 *.so
 *.dylib
